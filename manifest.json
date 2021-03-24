@@ -1,0 +1,19 @@
+{
+  "name": "JAMJobs",
+  "short_name": "JAMJobs",
+  "description": "Bienvenid@s a JAMJobs, una bolsa se trabajo para todos.",
+  "background_color": "#3D459C",
+  "theme_color": "#272C68",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/Logo.png",
+      "sizes": "1720x1135",
+      "type": "image/png"
+    }
+  ]
+}
